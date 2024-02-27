@@ -10,7 +10,7 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ## React store
 
-![React store](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/2026200b-e40e-49d2-9cbb-15ce6a884302)
+![React store](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/eae8d1ac-1d92-424c-97ee-d9fea9845960)
 
 ### Description
 
@@ -23,8 +23,8 @@ This is a React-based online store application. It uses styled-components for st
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/react-store)
-- **Live App:** [Visit App](https://dimahike.github.io/react-store/)
+- **Source Code:** [GitHub](https://github.com/dimahike/react-store-2)
+- **Live App:** [Visit App](https://dimahike.github.io/react-store-2/)
 
 ---
 
