@@ -4,11 +4,31 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ## Project Index
 
-- [Project Name 1](#project-name-1)
+- [React store](#react-store)
 
 ---
 
-## Project Name 1
+## React store
+
+![React store](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/2026200b-e40e-49d2-9cbb-15ce6a884302)
+
+### Description
+
+This is a React-based online store application. It uses styled-components for styling and supports PayPal payments. The application is prepared for deployment on GitHub pages.
+
+### Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
+- Other: GitHub Pages
+
+### Links
+
+- **Source Code:** [GitHub](https://github.com/dimahike/react-store)
+- **Live App:** [Visit App](https://dimahike.github.io/react-store/)
+
+---
+
+## React store
 
 ![Project Image 1](image-url-if-available.jpg)
 
@@ -19,7 +39,7 @@ A short description of what the project does and why it was created. Mention any
 ### Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express
+
 - Database: MongoDB
 - Other: Docker, AWS
 
@@ -38,7 +58,15 @@ I'm always working on something new, so check back often to see what I'm up to n
 
 ## About Me
 
-A short bio about yourself, your interests, and your goals. Feel free to link to your LinkedIn profile or personal website.
+Hello! I'm Dmytro Poliakov, a self-taught developer with a rich background that spans continents and careers. Before diving into the world of software development, I lived an adventurous life as an acrobat artist, performing and sharing my art in various countries including Singapore, Germany, China, and the USA. This unique journey has not only shaped me into a versatile and resilient individual but has also allowed me to appreciate diverse perspectives and cultures, enriching my approach to problem-solving and creativity in the tech space.
+
+Transitioning from acrobatics to coding, I've carried over the same passion, discipline, and dedication that defined my earlier career. I'm deeply fascinated by the latest in technology, particularly the realms of Artificial Intelligence, economics, and politics, and how these areas intersect to drive innovation and societal change.
+
+I'm a firm believer in the benefits of a healthy lifestyle, balancing my passion for coding with sports and travel, which I find essential for maintaining a clear and focused mind. My goal is to leverage my diverse experiences and technical skills to contribute meaningful projects to the tech community, pushing the boundaries of what's possible and exploring new horizons.
+
+As I continue to grow in this exciting field, I'm eager to connect with fellow enthusiasts, learn from their experiences, and share my journey from the stage to the screen.
+
+**Let's connect and explore the endless possibilities the future of technology holds together!**
 
 **Contact Me:**
 
