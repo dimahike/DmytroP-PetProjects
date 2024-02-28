@@ -5,8 +5,30 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 ## Project Index
 
 ##### 2020
+- [React typescript todo list](#react-typescript-todo-list)
 - [React pizza](#react-pizza)
 - [React store](#react-store)
+
+---
+
+## React typescript todo list
+
+![React typescript todo list](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/579abfcd-db05-47f5-b3bc-7b26f7861a04)
+
+### Description
+
+The application is a web-based project developed using TypeScript, JavaScript, and the React framework. It utilizes npm for package management. The application's functionality and features are not specified, but given the technologies used, it likely involves a user interface built with React components, business logic written in TypeScript and JavaScript, and various dependencies managed through npm.
+
+### Tech Stack
+
+- Date: 2020
+- Frontend: HTML, CSS, Typescript, React, redux, redux-thunk, react-router-dom, node-sass
+- Other: GitHub Pages
+
+### Links
+
+- **Source Code:** [GitHub](https://github.com/dimahike/react-ts-best-todolist)
+- **Live App:** [Visit App](https://dimahike.github.io/react-ts-best-todolist/)
 
 ---
 
@@ -21,7 +43,7 @@ This application appears to be a JavaScript-based web application using the Reac
 ### Tech Stack
 
 - Date: 2020
-- Frontend: HTML, CSS, JavaScript, React.JS,json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
+- Frontend: HTML, CSS, JavaScript, React, json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
 - Other: GitHub Pages
 
 ### Links
