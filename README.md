@@ -4,7 +4,30 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ## Project Index
 
+##### 2020
+- [React pizza](#react-pizza)
 - [React store](#react-store)
+
+---
+
+## React pizza
+
+![React pizza](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/0b33e2b6-eefd-4e2f-bb96-0d7856544379)
+
+### Description
+
+This application appears to be a JavaScript-based web application using the React framework and Redux for state management. The specific code you're working on is related to fetching and managing data about pizzas.
+
+### Tech Stack
+
+- Date: 2020
+- Frontend: HTML, CSS, JavaScript, React.JS,json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
+- Other: GitHub Pages
+
+### Links
+
+- **Source Code:** [GitHub](https://github.com/dimahike/react-pizza)
+- **Live App:** [Visit App](https://dimahike.github.io/react-pizza/)
 
 ---
 
@@ -18,6 +41,7 @@ This is a React-based online store application. It uses styled-components for st
 
 ### Tech Stack
 
+- Date: 2020
 - Frontend: HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
 - Other: GitHub Pages
 
