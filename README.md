@@ -4,13 +4,22 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ## Project Index
 
-##### 2022
+#### **2021**
 - [React full-stack todo list](#react-full-stack-todo-list)
+  <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
+  <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
+  <br> **Other**: dotenv for environment variable management, npm as a package manager
 
-##### 2020
+#### **2020**
 - [React typescript todo list](#react-typescript-todo-list)
+  <br> **Frontend:** HTML, CSS, Typescript, React, redux, redux-thunk, react-router-dom, node-sass
+  <br> **Other**: GitHub Pages, npm as a package manager
 - [React pizza](#react-pizza)
+  <br> **Frontend:** HTML, CSS, JavaScript, React, json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
+  <br> **Other**: GitHub Pages, npm as a package manager
 - [React store](#react-store)
+  <br> **Frontend:** HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
+  <br> **Other**: GitHub Pages, npm as a package manager
 
 ---
 
@@ -25,16 +34,18 @@ This application appears to be a To-Do List web application. It allows users to 
 
 ### Tech Stack
 
-- Date: 2021
-- Frontend: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
-- Backend: Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
-- Other: dotenv for environment variable management, npm as a package manager
+- **Date**: 2021
+- **Frontend**: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
+- **Backend**: Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
+- **Other**: dotenv for environment variable management, npm as a package manager
 
 ### Links
 
 - **Source Code:** [GitHub](https://github.com/dimahike/fullstack-todo-list)
 
+##### [Back to the list](#project-index)
 ---
+
 ## React typescript todo list
 
 ![React typescript todo list](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/579abfcd-db05-47f5-b3bc-7b26f7861a04)
@@ -45,15 +56,16 @@ The application is a web-based project developed using TypeScript, JavaScript, a
 
 ### Tech Stack
 
-- Date: 2020
-- Frontend: HTML, CSS, Typescript, React, redux, redux-thunk, react-router-dom, node-sass
-- Other: GitHub Pages, npm as a package manager
+- **Date**: 2020
+- **Frontend**: HTML, CSS, Typescript, React, redux, redux-thunk, react-router-dom, node-sass
+- **Other**: GitHub Pages, npm as a package manager
 
 ### Links
 
 - **Source Code:** [GitHub](https://github.com/dimahike/react-ts-best-todolist)
 - **Live App:** [Visit App](https://dimahike.github.io/react-ts-best-todolist/)
 
+##### [Back to the list](#project-index)
 ---
 
 ## React pizza
@@ -66,15 +78,16 @@ This application appears to be a JavaScript-based web application using the Reac
 
 ### Tech Stack
 
-- Date: 2020
-- Frontend: HTML, CSS, JavaScript, React, json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
-- Other: GitHub Pages
+- **Date**: 2020
+- **Frontend**: HTML, CSS, JavaScript, React, json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
+- **Other**: GitHub Pages
 
 ### Links
 
 - **Source Code:** [GitHub](https://github.com/dimahike/react-pizza)
 - **Live App:** [Visit App](https://dimahike.github.io/react-pizza/)
 
+##### [Back to the list](#project-index)
 ---
 
 ## React store
@@ -87,42 +100,16 @@ This is a React-based online store application. It uses styled-components for st
 
 ### Tech Stack
 
-- Date: 2020
-- Frontend: HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
-- Other: GitHub Pages, npm as a package manager
- 
+- **Date**: 2020
+- **Frontend**: HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
+- **Other**: GitHub Pages, npm as a package manager
+
 ### Links
 
 - **Source Code:** [GitHub](https://github.com/dimahike/react-store-2)
 - **Live App:** [Visit App](https://dimahike.github.io/react-store-2/)
 
----
-
-## React store
-
-![Project Image 1](image-url-if-available.jpg)
-
-### Description
-
-A short description of what the project does and why it was created. Mention any challenges faced and how they were overcome.
-
-### Tech Stack
-
-- Frontend: HTML, CSS, JavaScript, React.js
-- Database: MongoDB
-- Other: Docker, AWS
-
-### Links
-
-- **Source Code:** [GitHub](source-code-url)
-- **Live App:** [Visit App](app-url)
-
----
-
-### More projects coming soon...
-
-I'm always working on something new, so check back often to see what I'm up to next!
-
+##### [Back to the list](#project-index)
 ---
 
 ## About Me
@@ -137,10 +124,10 @@ As I continue to grow in this exciting field, I'm eager to connect with fellow e
 
 **Let's connect and explore the endless possibilities the future of technology holds together!**
 
-**Contact Me:**
+#### **Contact Me:**
 
-- Email: dimadeveloper2020@gmail.com
-- Phone: +380974315821
-- Telegram: @dimahike
+- **Email**: dimadeveloper2020@gmail.com
+- **Phone**: +380974315821
+- **Telegram**: @dimahike
 
-Thank you for visiting my project portfolio!
+### ***Thank you for visiting my project portfolio!***
