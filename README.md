@@ -32,7 +32,7 @@ This application appears to be a To-Do List web application. It allows users to 
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/react-ts-best-todolist)
+- **Source Code:** [GitHub](https://github.com/dimahike/fullstack-todo-list)
 
 ---
 ## React typescript todo list
