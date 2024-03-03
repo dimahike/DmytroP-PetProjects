@@ -4,6 +4,9 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ## Project Index
 
+##### 2022
+- [React full-stack todo list](#react-full-stack-todo-list)
+
 ##### 2020
 - [React typescript todo list](#react-typescript-todo-list)
 - [React pizza](#react-pizza)
@@ -11,6 +14,27 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ---
 
+## React full-stack todo list
+
+![React fullstack todo list](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/3f5982bb-85c1-4931-9042-5b38013342e4)
+
+### Description
+
+This application appears to be a To-Do List web application. It allows users to sign in, register, and presumably manage a list of tasks. The application is structured with a frontend and a backend.
+
+
+### Tech Stack
+
+- Date: 2021
+- Frontend: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
+- Backend: Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
+- Other: dotenv for environment variable management, npm as a package manager
+
+### Links
+
+- **Source Code:** [GitHub](https://github.com/dimahike/react-ts-best-todolist)
+
+---
 ## React typescript todo list
 
 ![React typescript todo list](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/579abfcd-db05-47f5-b3bc-7b26f7861a04)
@@ -23,7 +47,7 @@ The application is a web-based project developed using TypeScript, JavaScript, a
 
 - Date: 2020
 - Frontend: HTML, CSS, Typescript, React, redux, redux-thunk, react-router-dom, node-sass
-- Other: GitHub Pages
+- Other: GitHub Pages, npm as a package manager
 
 ### Links
 
@@ -65,8 +89,8 @@ This is a React-based online store application. It uses styled-components for st
 
 - Date: 2020
 - Frontend: HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
-- Other: GitHub Pages
-
+- Other: GitHub Pages, npm as a package manager
+ 
 ### Links
 
 - **Source Code:** [GitHub](https://github.com/dimahike/react-store-2)
@@ -85,7 +109,6 @@ A short description of what the project does and why it was created. Mention any
 ### Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React.js
-
 - Database: MongoDB
 - Other: Docker, AWS
 
