@@ -5,6 +5,10 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 ## Project Index
 
 #### **2021**
+- [Full-stack amazon](#full-stack-amazon)
+  <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
+  <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
+  <br> **Other**: dotenv for environment variable management, npm as a package manager
 - [React full-stack todo list](#react-full-stack-todo-list)
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
   <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
@@ -21,6 +25,29 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
   <br> **Frontend:** HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
   <br> **Other**: GitHub Pages, npm as a package manager
 
+---
+
+## Full-stack amazon
+
+![Full-stack amazon](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/29204f74-1178-4dfd-83c5-5e6dd64c9803)
+
+### Description
+
+This application appears to be a To-Do List web application. It allows users to sign in, register, and presumably manage a list of tasks. The application is structured with a frontend and a backend.
+
+
+### Tech Stack
+
+- **Date**: 2021
+- **Frontend**: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, axios, react-google-maps/api, react-paypal-button-v2, react-responsive-carousel
+- **Backend**: Node.js, Express, MongoDB, Mongoose, jsonwebtoken, bcryptjs
+- **Other**: dotenv for environment variable management, npm as a package manager
+
+### Links
+
+- **Source Code:** [GitHub](https://github.com/dimahike/fullstack-todo-list)
+
+##### [Back to the list](#project-index)
 ---
 
 ## React full-stack todo list
@@ -41,7 +68,7 @@ This application appears to be a To-Do List web application. It allows users to 
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/fullstack-todo-list)
+- **Source Code:** [GitHub](https://github.com/dimahike/fullstack-amazona)
 
 ##### [Back to the list](#project-index)
 ---
