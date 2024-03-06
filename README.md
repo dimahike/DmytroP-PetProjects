@@ -5,6 +5,9 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 ## Project Index
 
 #### **2021**
+- [React rick and morty with scrolling](#react-rick-and-morty-with-scrolling)
+  <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
+  <br> **Other**: dotenv for environment variable management, npm as a package manager
 - [Full-stack amazon](#full-stack-amazon)
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
   <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
@@ -27,6 +30,28 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ---
 
+## React rick and morty with scrolling
+
+![React rick and morty with scrolling](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/2849c71f-7d24-4c7b-927e-ae2db6c0bb01)
+
+### Description
+
+This application appears to be a web application that uses the Rick and Morty API to display information about characters, episodes, and locations from the show. It also includes a watchlist feature. The application is structured with a frontend built with React.
+
+
+### Tech Stack
+
+- **Date**: 2021
+- **Frontend**: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, clsx, @material-ui/core, @material-ui/icons, @material-ui/lab, react-infinite-scroll-component
+- **Other**: npm as a package manager
+
+### Links
+
+- **Source Code:** [GitHub](https://github.com/dimahike/react-rick-and-morty-with-scrolling)
+- **Live App:** [Visit App](https://dimahike.github.io/react-rick-and-morty-with-scrolling/)
+
+##### [Back to the list](#project-index)
+---
 ## Full-stack amazon
 
 ![Full-stack amazon](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/29204f74-1178-4dfd-83c5-5e6dd64c9803)
