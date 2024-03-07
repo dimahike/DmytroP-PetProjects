@@ -4,10 +4,16 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ## Project Index
 
+
 #### **2021**
+- [React Chucknorris](#react-chucknorris)
+  <br> **Frontend**: JavaScript, TypeScript, React, Redux Toolkit, react-router-dom, classnames, lodash.debounce, sass
+  <br> **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+  <br> **Other**: GitHub Pages, npm as a package manager
 - [React rick and morty with scrolling](#react-rick-and-morty-with-scrolling)
-  <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
-  <br> **Other**: dotenv for environment variable management, npm as a package manager
+  <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, clsx, @material-ui/core, @material-ui/icons, @material-ui/lab, react-infinite-scroll-component
+  <br> **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+  <br> **Other**: npm as a package manager
 - [Full-stack amazon](#full-stack-amazon)
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
   <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
@@ -19,7 +25,7 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 #### **2020**
 - [React typescript todo list](#react-typescript-todo-list)
-  <br> **Frontend:** HTML, CSS, Typescript, React, redux, redux-thunk, react-router-dom, node-sass
+  <br> **Frontend:** HTML, CSS, Typescript, React, redux toolkit, react-router-dom, node-sass
   <br> **Other**: GitHub Pages, npm as a package manager
 - [React pizza](#react-pizza)
   <br> **Frontend:** HTML, CSS, JavaScript, React, json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
@@ -30,7 +36,32 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 
 ---
 
-## React rick and morty with scrolling
+## React Chucknorris
+
+![React Chucknorris](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/9e9a25d4-f339-47da-a5ed-f25e0c331cbe)
+
+### Description
+
+This application, named "chucknorris", appears to be a web application built with React and Redux. It uses a variety of libraries and tools to enhance its functionality. The application is hosted on GitHub Pages.
+
+
+### Tech Stack
+
+- **Date**: 2021
+- **Frontend**: JavaScript, TypeScript, React, Redux Toolkit, react-router-dom, classnames, lodash.debounce, sass
+- **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+- **Other**: GitHub Pages, npm as a package manager
+
+### Links
+
+- **Source Code:** [https://github.com/dimahike/chucknorris](https://github.com/dimahike/chucknorris)
+- **Live App:** [https://dimahike.github.io/chucknorris/](https://dimahike.github.io/chucknorris/)
+
+##### [Back to the list](#project-index)
+
+---
+
+## React Rick and Morty with scrolling
 
 ![React rick and morty with scrolling](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/2849c71f-7d24-4c7b-927e-ae2db6c0bb01)
 
@@ -43,15 +74,18 @@ This application appears to be a web application that uses the Rick and Morty AP
 
 - **Date**: 2021
 - **Frontend**: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, clsx, @material-ui/core, @material-ui/icons, @material-ui/lab, react-infinite-scroll-component
-- **Other**: npm as a package manager
+- **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+- **Other**: GitHub Pages, npm as a package manager
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/react-rick-and-morty-with-scrolling)
-- **Live App:** [Visit App](https://dimahike.github.io/react-rick-and-morty-with-scrolling/)
+- **Source Code:** [https://github.com/dimahike/react-rick-and-morty-with-scrolling](https://github.com/dimahike/react-rick-and-morty-with-scrolling)
+- **Live App:** [https://dimahike.github.io/react-rick-and-morty-with-scrolling/](https://dimahike.github.io/react-rick-and-morty-with-scrolling/)
 
 ##### [Back to the list](#project-index)
+
 ---
+
 ## Full-stack amazon
 
 ![Full-stack amazon](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/29204f74-1178-4dfd-83c5-5e6dd64c9803)
@@ -70,9 +104,10 @@ This application appears to be a To-Do List web application. It allows users to 
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/fullstack-todo-list)
+- **Source Code:** [https://github.com/dimahike/fullstack-todo-list](https://github.com/dimahike/fullstack-todo-list)
 
 ##### [Back to the list](#project-index)
+
 ---
 
 ## React full-stack todo list
@@ -93,7 +128,7 @@ This application appears to be a To-Do List web application. It allows users to 
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/fullstack-amazona)
+- **Source Code:** [https://github.com/dimahike/fullstack-amazona](https://github.com/dimahike/fullstack-amazona)
 
 ##### [Back to the list](#project-index)
 ---
@@ -114,10 +149,11 @@ The application is a web-based project developed using TypeScript, JavaScript, a
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/react-ts-best-todolist)
-- **Live App:** [Visit App](https://dimahike.github.io/react-ts-best-todolist/)
+- **Source Code:** [https://github.com/dimahike/react-ts-best-todolist](https://github.com/dimahike/react-ts-best-todolist)
+- **Live App:** [https://dimahike.github.io/react-ts-best-todolist/](https://dimahike.github.io/react-ts-best-todolist/)
 
 ##### [Back to the list](#project-index)
+
 ---
 
 ## React pizza
@@ -136,10 +172,11 @@ This application appears to be a JavaScript-based web application using the Reac
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/react-pizza)
-- **Live App:** [Visit App](https://dimahike.github.io/react-pizza/)
+- **Source Code:** [https://github.com/dimahike/react-pizza](https://github.com/dimahike/react-pizza)
+- **Live App:** [https://dimahike.github.io/react-pizza/](https://dimahike.github.io/react-pizza/)
 
 ##### [Back to the list](#project-index)
+
 ---
 
 ## React store
@@ -158,10 +195,11 @@ This is a React-based online store application. It uses styled-components for st
 
 ### Links
 
-- **Source Code:** [GitHub](https://github.com/dimahike/react-store-2)
-- **Live App:** [Visit App](https://dimahike.github.io/react-store-2/)
+- **Source Code:** [https://github.com/dimahike/react-store-2](https://github.com/dimahike/react-store-2)
+- **Live App:** [https://dimahike.github.io/react-store-2/](https://dimahike.github.io/react-store-2/)
 
 ##### [Back to the list](#project-index)
+
 ---
 
 ## About Me
