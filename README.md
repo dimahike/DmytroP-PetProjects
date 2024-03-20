@@ -14,7 +14,7 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, clsx, @material-ui/core, @material-ui/icons, @material-ui/lab, react-infinite-scroll-component
   <br> **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
   <br> **Other**: npm as a package manager
-- [Full-stack amazon](#full-stack-amazon)
+- [Full-stack amazon](#full-stack-amazon) **(UPDATED EC2 deploy 2024)**
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
   <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
   <br> **Other**: dotenv for environment variable management, npm as a package manager
@@ -116,7 +116,7 @@ This application appears to be a To-Do List web application. It allows users to 
 
 ### Description
 
-This application appears to be a To-Do List web application. It allows users to sign in, register, and presumably manage a list of tasks. The application is structured with a frontend and a backend.
+This application appears to be a To-Do List web application. It allows users to sign in, register, and presumably manage a list of tasks. The application is structured with the frontend and backend. Deployed EC2 virtual machine (AWS)
 
 
 ### Tech Stack
@@ -124,11 +124,12 @@ This application appears to be a To-Do List web application. It allows users to 
 - **Date**: 2021
 - **Frontend**: HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
 - **Backend**: Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
-- **Other**: dotenv for environment variable management, npm as a package manager
+- **Other**: dotenv for environment variable management, npm as a package manager, EC2 deploy (AWS)
 
 ### Links
 
-- **Source Code:** [https://github.com/dimahike/fullstack-amazona](https://github.com/dimahike/fullstack-amazona)
+- **Source Code:** [https://github.com/dimahike/fullstack-todo-list](https://github.com/dimahike/fullstack-todo-list)
+- **Live App:** [https://todolist.pt-projects.net/](https://todolist.pt-projects.net/)
 
 ##### [Back to the list](#project-index)
 ---
