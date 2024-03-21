@@ -2,6 +2,8 @@
 
 Welcome to my pet project portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills, creativity, and passion for software development. Each project includes a brief description, the technology stack used, and links to the source code and the application (where applicable).
 
+Certainly! Here's the comprehensive tech stack divided by categories based on Dmytro Poliakov's pet project portfolio:
+
 ## Project Index
 
 
@@ -33,6 +35,9 @@ Welcome to my pet project portfolio! Here, you'll find a collection of projects 
 - [React store](#react-store)
   <br> **Frontend:** HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
   <br> **Other**: GitHub Pages, npm as a package manager
+
+## PoC(proof of concept) projects 
+- [HTMX tour](#htmx-tour)
 
 ---
 
@@ -202,6 +207,22 @@ This is a React-based online store application. It uses styled-components for st
 ##### [Back to the list](#project-index)
 
 ---
+
+## HTMX tour
+
+### Description
+
+This is a simple Express.js project with HTMX that includes features such as temperature monitoring, contact search, and email validation. It was developed for testing HTMX.
+
+### Tech Stack
+  <br> **Frontend:** HTML, CSS, JavaScript, HTMX
+  <br> **Backend:** Express.js
+  <br> **Other**: GitHub, npm as a package manager
+  
+  ### Links
+- **Source Code:** [https://github.com/dimahike/htmx-tour](https://github.com/dimahike/htmx-tour)
+
+##### [Back to the CoP list](#pocproof-of-concept-projects)
 
 ## About Me
 
