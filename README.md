@@ -10,41 +10,43 @@ Certainly! Here's the comprehensive tech stack divided by categories based on Dm
 #### **2023**
 
 - [Chatty Pete](#chatty-pete)
-  <br> **Frontend**: JavaScript, Next.js, React, FontAwesome, @auth0/nextjs-auth0
-  <br> **Backend**: MongoDB
-  <br> **Other**: GitHub Pages, npm as a package manager
+  <br> **Frontend:** JavaScript, Next.js, React, FontAwesome, @auth0/nextjs-auth0
+  <br> **Backend:** MongoDB
+  <br> **Other:** GitHub Pages, npm as a package manager
 
 #### **2021**
 - [React Chucknorris](#react-chucknorris)
-  <br> **Frontend**: JavaScript, TypeScript, React, Redux Toolkit, react-router-dom, classnames, lodash.debounce, sass
-  <br> **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
-  <br> **Other**: GitHub Pages, npm as a package manager
+  <br> **Frontend:** JavaScript, TypeScript, React, Redux Toolkit, react-router-dom, classnames, lodash.debounce, sass
+  <br> **Backend:** open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+  <br> **Other:** GitHub Pages, npm as a package manager
 - [React rick and morty with scrolling](#react-rick-and-morty-with-scrolling)
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, clsx, @material-ui/core, @material-ui/icons, @material-ui/lab, react-infinite-scroll-component
-  <br> **Backend**: open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
-  <br> **Other**: npm as a package manager
+  <br> **Backend:** open source API [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+  <br> **Other:** npm as a package manager
 - [Full-stack amazon](#full-stack-amazon) **(UPDATED EC2 deploy 2024)**
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
   <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
-  <br> **Other**: dotenv for environment variable management, npm as a package manager
+  <br> **Other:** dotenv for environment variable management, npm as a package manager
 - [React full-stack todo list](#react-full-stack-todo-list)
   <br> **Frontend:** HTML, CSS, JavaScript, React, redux, redux-thunk, react-router-dom, sass
   <br> **Backend:** Node.js, Express, MongoDB, Mongoose, dotenv, jsonwebtoken, bcryptjs
-  <br> **Other**: dotenv for environment variable management, npm as a package manager
+  <br> **Other:** dotenv for environment variable management, npm as a package manager
 
 #### **2020**
 - [React typescript todo list](#react-typescript-todo-list)
   <br> **Frontend:** HTML, CSS, Typescript, React, redux toolkit, react-router-dom, node-sass
-  <br> **Other**: GitHub Pages, npm as a package manager
+  <br> **Other:** GitHub Pages, npm as a package manager
 - [React pizza](#react-pizza)
   <br> **Frontend:** HTML, CSS, JavaScript, React, json-serve, redux, redux-thunk, axios, classnames, prop-types, react-content-loader, react-router-dom, sass
-  <br> **Other**: GitHub Pages, npm as a package manager
+  <br> **Other:** GitHub Pages, npm as a package manager
 - [React store](#react-store)
   <br> **Frontend:** HTML, CSS, JavaScript, React.js, @paypal/react-paypal-js, bootstrap, styled-components
-  <br> **Other**: GitHub Pages, npm as a package manager
+  <br> **Other:** GitHub Pages, npm as a package manager
 
 ## PoC(proof of concept) projects 
 - [HTMX tour](#htmx-tour)
+- [HTMX todo list](#htmx-todo-list)
+
 
 ---
 
@@ -245,12 +247,34 @@ This is a React-based online store application. It uses styled-components for st
 This is a simple Express.js project with HTMX that includes features such as temperature monitoring, contact search, and email validation. It was developed for testing HTMX.
 
 ### Tech Stack
-  <br> **Frontend:** HTML, CSS, JavaScript, HTMX
-  <br> **Backend:** Express.js
-  <br> **Other**: GitHub, npm as a package manager
+
+- **Date**: 2024
+- **Frontend:** HTML, CSS, JavaScript, HTMX
+- **Backend:** Express.js
+- **Other:** GitHub, npm as a package manager
   
   ### Links
 - **Source Code:** [https://github.com/dimahike/htmx-tour](https://github.com/dimahike/htmx-tour)
+
+##### [Back to the CoP list](#pocproof-of-concept-projects)
+
+---
+
+## HTMX todo list
+
+### Description
+
+This is a simple Express.js project that uses HTMX for creating a to-do list application. It includes features such as task creation, task deletion, and task status updates. It was developed for testing HTMX and exploring its capabilities.
+
+### Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, HTMX
+- **Template Engine:** Pug
+- **Backend:** Express.js
+- **Other:** GitHub, npm as a package manager
+  
+  ### Links
+- **Source Code:** [https://github.com/dimahike/htmx-todo-list](https://github.com/dimahike/htmx-todo-list)
 
 ##### [Back to the CoP list](#pocproof-of-concept-projects)
 
