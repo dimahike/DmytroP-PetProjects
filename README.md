@@ -7,6 +7,13 @@ Certainly! Here's the comprehensive tech stack divided by categories based on Dm
 ## Project Index
 
 
+#### **2023**
+
+- [Chatty Pete](#chatty-pete)
+  <br> **Frontend**: JavaScript, Next.js, React, FontAwesome, @auth0/nextjs-auth0
+  <br> **Backend**: MongoDB
+  <br> **Other**: GitHub Pages, npm as a package manager
+
 #### **2021**
 - [React Chucknorris](#react-chucknorris)
   <br> **Frontend**: JavaScript, TypeScript, React, Redux Toolkit, react-router-dom, classnames, lodash.debounce, sass
@@ -39,6 +46,29 @@ Certainly! Here's the comprehensive tech stack divided by categories based on Dm
 ## PoC(proof of concept) projects 
 - [HTMX tour](#htmx-tour)
 
+---
+
+## Chatty Pete
+
+![Chatty Pete](https://github.com/dimahike/DmytroP-PetProjects/assets/61499375/88adf1f2-a318-42a0-af96-2200901f11e6)
+
+### Description
+
+This application appears to be a chat application that allows users to create and manage chat sessions. It uses a unique chat ID to identify each chat session and allows users to send and receive messages within these sessions. The application also includes a sidebar for navigation and a system prompt feature. The chat messages are stored and retrieved from a MongoDB database.
+
+### Tech Stack
+
+- **Date**: 2023
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js, FontAwesome, @auth0/nextjs-auth0
+- **Backend**: MongoDB
+- **Other**: GitHub, npm as a package manager
+
+### Links
+
+- **Source Code:** [https://github.com/dimahike/chucknorris](https://github.com/dimahike/chucknorris)
+- **Live App:** [https://dimahike.github.io/chucknorris/](https://dimahike.github.io/chucknorris/)
+
+##### [Back to the list](#project-index)
 ---
 
 ## React Chucknorris
